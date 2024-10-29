@@ -51,8 +51,8 @@ a {
   color: #434455;
 }
 
-.contact:hover,
-.contact:focus {
+.contact-item:hover,
+.contact-item:focus {
   color: #404bbf;
 }
 
@@ -71,7 +71,7 @@ a {
 
 .hero-btn {
   background-color: #4d5ae5;
-  color: #ffffff
+  color: #ffffff;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -107,6 +107,7 @@ a {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
+
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
@@ -114,7 +115,7 @@ a {
 }
 
 .card {
-    background-color: #ffffff;
+  background-color: #ffffff;
 }
 
 .name-team {
@@ -161,6 +162,9 @@ a {
   background-color: #2e2f42;
 }
 
+.logo-footer {
+  color: #f4f4fd;
+}
 .down-page-text {
   font-weight: 400;
   font-size: 16px;
